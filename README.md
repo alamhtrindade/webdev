@@ -60,3 +60,6 @@ Para verificar e corrigir automaticamente problemas de estilo e sintaxe no códi
 
 **Vue.js** – Framework JavaScript para construção de interfaces de usuário reativas.
 **NPM** – Gerenciador de pacotes para Node.js.
+
+## 👤 Autor
+[Instagram 📸](https://www.instagram.com/alamhtrindade)
