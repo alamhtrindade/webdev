@@ -18,7 +18,7 @@ Para configurar o projeto, siga os passos abaixo:
 1. **Clone o repositório** para sua máquina local:
 
    ```bash
-   git clone <URL-do-repositório>
+   git clone (https://github.com/alamhtrindade/webdev.git)
    cd webdev
 
 2. **Instale as dependências** do projeto:
