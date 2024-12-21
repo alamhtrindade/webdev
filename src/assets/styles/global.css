@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    background-color: #F5F5F5;
+    font-family: "Source Sans 3", serif;
+}
+
+.top-menu {
+    position: relative;
+    z-index: 1030;
+}
+
+.sidebar {
+    position: fixed;
+    z-index: 1020;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+    color: #FFFFFF !important;
+    font-weight: 700;
+}
+
+.bg-dark{
+    background-color: #333F52 !important;
+}
+
+.conteiner {
+    margin-left: 20rem;
+    padding: 20px;
+    width: calc(100% - 20rem);
+    overflow-y: auto;
+}
+
+.custom-container {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.custom-nav {
+    padding-top: 9rem;
+    padding-left: 3rem;
+    width: 100%; 
+    text-align: left;
+}
+
+.custom-font {
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 300;
+    color: #ffffff;
+    line-height: 1.5;
+    white-space: nowrap;
+    padding: 10px 0;
+}
+
+.footer-custom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #273142 !important;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 2rem 1rem;
+}
+
+.card-header{
+    background-color: #ECECEC;
+    border:none;
+}
+
+.card{
+    border:none; 
+    border-radius: none;
+}
+.custom-table th {
+    background-color: #ECECEC !important;
+    color: #333F52 !important;
+    font-family: "Source Sans 3", sans-serif !important;
+    padding: 12px !important;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.custom-table th:first-child {
+    border-top-left-radius: 12px !important;
+}
+
+.custom-table th:last-child {
+    border-top-right-radius: 12px !important;
+}
+
+.title-page{
+    font-size: 36px !important;
+    font-weight: 500;
+    color: #333F52;
+    margin-bottom: 2rem;
+}
